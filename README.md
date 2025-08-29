@@ -20,7 +20,8 @@
 🛠️ Repositório de estudos do curso E2E Treinamento:  
 ➡️ [`e2etreinamento`](https://github.com/Vi-caroline/e2e-checkin.git) *(exercícios, automações e testes diversos)*
 
-*(Adicione mais links de projetos aqui conforme for criando!)*
+Projeto de automação de testes no sistema Home Broker (simulação de cenário real):  
+➡️ [`home-broker-tests`](https://github.com/vi-caroline/home-broker-tests)
 
 ---
 
