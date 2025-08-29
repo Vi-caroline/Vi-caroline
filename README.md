@@ -21,7 +21,7 @@
 ➡️ [`e2etreinamento`](https://github.com/Vi-caroline/e2e-checkin.git) *(exercícios, automações e testes diversos)*
 
 Projeto de automação de testes no sistema Home Broker (simulação de cenário real):  
-➡️ [`home-broker-tests`][(](https://github.com/Vi-caroline/home_broker_mobile)
+➡️ [`home-broker-tests`](https://github.com/Vi-caroline/home_broker_mobile)
 
 ---
 
