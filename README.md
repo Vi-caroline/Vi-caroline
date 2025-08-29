@@ -18,7 +18,7 @@
 
 ### 📂 Meus Projetos
 🛠️ Repositório de estudos do curso E2E Treinamento:  
-➡️ [`e2etreinamento`](https://github.com/vi-caroline/e2etreinamento) *(exercícios, automações e testes diversos)*
+➡️ [`e2etreinamento`](https://github.com/Vi-caroline/e2e-checkin.git) *(exercícios, automações e testes diversos)*
 
 *(Adicione mais links de projetos aqui conforme for criando!)*
 
