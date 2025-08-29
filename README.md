@@ -23,6 +23,10 @@
 Projeto de automação de testes no sistema Home Broker (simulação de cenário real):  
 ➡️ [`home-broker-tests`](https://github.com/Vi-caroline/home_broker_mobile)
 
+ **Projeto: Automação de Testes com Selenium**  
+Framework de testes automatizados com Selenium WebDriver em Java.
+➡️ [`selenium-tests`](https://github.com/vi-caroline/selenium-tests)
+
 ---
 
 ### 📊 GitHub Stats
